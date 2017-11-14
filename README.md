@@ -1,2 +1,2 @@
-# IrisDataSet
-1) Used multi layer perceptron with three hidden layers to get an accuracy of 94% on test dataset.
+# BostonHousingDataSet
+1) Used Linear Regression to predict housing prices using Boston Housing dataset.
